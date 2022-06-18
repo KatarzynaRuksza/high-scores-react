@@ -60,6 +60,22 @@ let allCountryScores = [
       { n: "ali", s: 5400000 },
     ],
   },
+  {
+    name: "Poland",
+    scores: [
+      { n: "kasia", s: 7002200 },
+      { n: "basia", s: 1823812 },
+      { n: "gosia", s: 540000 },
+    ],
+  },
+  {
+    name: "Spain",
+    scores: [
+      { n: "jaume", s: 700220 },
+      { n: "jose", s: 1823912 },
+      { n: "gloria", s: 543000 },
+    ],
+  },
 ];
 
 export default allCountryScores;
